@@ -1,0 +1,33 @@
+body{
+    font-family: 'Baloo 2', cursive;
+    
+}
+.text-subtitle{
+    color: #283034;
+    font-weight: 400;
+    font-size: 19px;
+}
+.text-title{
+    font-weight: 700;
+    font-size: 35px;
+
+}
+.text-title-large{
+    font-size: 48px; 
+}
+.text-p{
+    font-weight: 400;
+    font-size: 18px;
+}
+.myspan{
+    color: blue;
+
+}
+.mybr{
+    color: blue;
+}
+.mybtn{
+    background-color: blue;
+    color: white;
+    
+}
